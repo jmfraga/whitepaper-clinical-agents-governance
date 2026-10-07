@@ -25,6 +25,7 @@ Fraga-Sastrías JM. *Three assistants, three personas: private 1:1, groups, and 
 https://doi.org/10.5281/zenodo.23213594
 
 - All versions (concept DOI, always resolves to the latest): [10.5281/zenodo.23213594](https://doi.org/10.5281/zenodo.23213594)
+- Version 1.1: [10.5281/zenodo.23214650](https://doi.org/10.5281/zenodo.23214650)
 - Version 1.0: [10.5281/zenodo.23213595](https://doi.org/10.5281/zenodo.23213595)
 
 ## Changelog
