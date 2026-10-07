@@ -1,0 +1,40 @@
+{
+  "title": "Three assistants, three personas: private 1:1, groups, and multi-soul",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "description": "<p>A side-by-side account of three production conversational agents built by a physician: a personal assistant with more than 60 tools, a 1:1 public-support agent on WhatsApp, and a multi-persona agent for WhatsApp groups. It covers persona design, layered memory, tool use, model routing with fallback, and reliability engineering. Its centerpiece is governance: irreversible actions are gated in code rather than in the prompt, an irreversible-action classifier runs in production, and a tool-use evaluation in which a local model deleted a record in 6 of 10 attempts motivated the code-level gate. A technical appendix documents the architecture, memory constraints, governance design, and reliability cases. Examples are anonymized.</p><p>Web versions: <a href=\"https://www.docfraga.com/en/whitepapers/asistentes-multi-alma\">English</a> · <a href=\"https://www.docfraga.com/whitepapers/asistentes-multi-alma\">Español</a>.</p>",
+  "creators": [
+    {
+      "name": "Fraga-Sastrías, Juan Manuel",
+      "orcid": "0000-0002-9255-278X"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "conversational agents",
+    "LLM governance",
+    "AI safety",
+    "irreversible actions",
+    "tool use",
+    "human-in-the-loop",
+    "WhatsApp",
+    "health care AI",
+    "agent memory",
+    "model routing"
+  ],
+  "language": "eng",
+  "version": "1.0",
+  "publication_date": "2026-10-07",
+  "related_identifiers": [
+    {
+      "identifier": "https://www.docfraga.com/en/whitepapers/asistentes-multi-alma",
+      "relation": "isIdenticalTo",
+      "resource_type": "publication-technicalnote"
+    },
+    {
+      "identifier": "https://www.docfraga.com/whitepapers/asistentes-multi-alma",
+      "relation": "isVariantFormOf",
+      "resource_type": "publication-technicalnote"
+    }
+  ]
+}

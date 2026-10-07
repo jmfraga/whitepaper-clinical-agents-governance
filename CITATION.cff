@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Three assistants, three personas: private 1:1, groups, and multi-soul"
+authors:
+  - family-names: "Fraga-Sastrías"
+    given-names: "Juan Manuel"
+    orcid: "https://orcid.org/0000-0002-9255-278X"
+license: CC-BY-4.0
+url: "https://www.docfraga.com/en/whitepapers/asistentes-multi-alma"
+keywords:
+  - "conversational agents"
+  - "LLM governance"
+  - "AI safety"
+  - "irreversible actions"
+  - "tool use"
+  - "human-in-the-loop"
+  - "WhatsApp"
+  - "health care AI"
+  - "agent memory"
+  - "model routing"
+preferred-citation:
+  type: report
+  title: "Three assistants, three personas: private 1:1, groups, and multi-soul"
+  authors:
+    - family-names: "Fraga-Sastrías"
+      given-names: "Juan Manuel"
+      orcid: "https://orcid.org/0000-0002-9255-278X"
+  year: 2026
+  url: "https://www.docfraga.com/en/whitepapers/asistentes-multi-alma"
